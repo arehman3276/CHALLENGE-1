@@ -1,0 +1,60 @@
+*{
+    text-align: center;
+}
+
+.wrapper{
+    width: 570px;
+    margin: 0% auto;
+}
+h1{
+   font-size: 60px;
+   font-weight: 100;
+}
+h1 span{
+    font-size: 80px;
+    font-weight: 900;
+}
+h2{
+    font-size:  42px;
+    font-weight: 100;  
+}
+h2 span{
+    font-size: 60px;
+    font-weight:900 ;
+}
+h3{
+    font-size: 36px;
+    font-weight: 100;
+}
+body{
+    margin: 0;
+    font-size:  21px;
+}
+.small{
+    font-size: 16px;
+}
+.color{
+    color: #99D930;
+}
+.profile{
+    width: 150px;
+    height: 150px;
+}
+.color:hover{
+   color:#131313;
+}
+.header,.about-me,article{
+    padding: 100px 0;
+    width: 100vw;
+}
+.header{
+    background-color:  #D7D7D7;
+
+} 
+.about-me
+{
+   background-color:  #FFEAEA;
+}
+article{
+   background-color:  #EAF9FF;
+}
